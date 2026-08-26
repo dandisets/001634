@@ -29,8 +29,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 6099764075425
-  numberOfFiles: 16697
+  numberOfBytes: 6401142872897
+  numberOfFiles: 16699
   numberOfSubjects: 9
   schemaKey: AssetsSummary
   species:
@@ -48,7 +48,7 @@ assetsSummary:
   - ProcessingModule
   - LFP
   - BehavioralEvents
-citation: Bray, Samuel (2025) Disruption of theta-timescale spiking impairs learning
+citation: Bray, Samuel (2026) Disruption of theta-timescale spiking impairs learning
   but spares hippocampal replay (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001634/draft
 contributor:
 - affiliation: []
