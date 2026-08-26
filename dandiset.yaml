@@ -49,7 +49,8 @@ assetsSummary:
   - LFP
   - BehavioralEvents
 citation: Bray, Samuel (2026) Disruption of theta-timescale spiking impairs learning
-  but spares hippocampal replay (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001634/draft
+  but spares hippocampal replay (Version 0.260826.2320) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.001634/0.260826.2320
 contributor:
 - affiliation: []
   email: sam.bray@ucsf.edu
@@ -59,6 +60,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-11-10T20:38:57.762360+00:00'
+datePublished: '2026-08-26T23:20:24.337137+00:00'
 description: Rats transfected with a viral strategy to express a light-activated channel
   (ChR2) in PV+ neurons within the MS of PV-Cre transgenic rats. We also implanted
   an optic fiber targeting the MS as well as either silicon electrodes or multi-tetrode
@@ -69,16 +71,29 @@ description: Rats transfected with a viral strategy to express a light-activated
   at specific phases of the ongoing theta rhythm (“phase-specific stimulation”) recorded
   in the hippocampus. Released in conjunction with the publication "Disruption of
   theta-timescale spiking impairs learning but spares hippocampal replay".
-id: DANDI:001634/draft
+doi: 10.48324/dandi.001634/0.260826.2320
+id: DANDI:001634/0.260826.2320
 identifier: DANDI:001634
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001634/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001634/0.260826.2320/assets.yaml
 name: Disruption of theta-timescale spiking impairs learning but spares hippocampal
   replay
+publishedBy:
+  endDate: '2026-08-26T23:20:24.337137+00:00'
+  id: urn:uuid:94d96d65-be4d-4bf5-b5ad-a12f48893d0a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-08-26T23:20:24.337137+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:7105c440-00bf-47ac-b0b3-7c6a60359804
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001634/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001634/0.260826.2320
+version: 0.260826.2320
